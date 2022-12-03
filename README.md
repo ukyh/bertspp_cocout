@@ -31,9 +31,6 @@ mkdir data; cd data
 wget http://cs.stanford.edu/people/karpathy/deepimagesent/caption_datasets.zip
 unzip caption_datasets.zip
 rm -f caption_datasets.zip
-
-mkdir coco_caps
-mkdir eval_results
 ```
 
 Then, download [cocotalk_disc_text.zip](https://drive.google.com/file/d/12LY3FzL_zYHDUzp_pez9fvtA3LaATCZL/view?usp=sharing) and unzip it into `data/`:  
