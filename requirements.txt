@@ -1,5 +1,6 @@
 # PyTorch
-torch==0.4.1
+# torch==0.4.1
+torch==1.10.2
 # progress bars in model download and training scripts
 tqdm>=4.31.1
 # BERT
